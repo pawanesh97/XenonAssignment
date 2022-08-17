@@ -1,0 +1,52 @@
+.main{
+    height: 300px;
+    text-align: center;
+}
+.main img{
+    display: flex;
+}
+.main a{
+    padding:13px 16px;
+}
+.main a button{
+    padding:13px 16px;
+    width: 200px;
+    color:black;
+    font-family: verdana;
+}
+.login{
+    height: 400px;
+    width: 60%;
+    margin:0px auto;
+    margin-top: 100px;
+}
+.login h2{
+    text-align: center;
+    font-family:verdana;
+}
+.login label{
+    font-family: verdana;
+}
+.login input{
+    background: whitesmoke;
+    color:#44ee;
+    font-family: verdana;
+    padding:13px 16px;
+    display:flex;
+}
+.login textarea{
+        background: whitesmoke;
+        color:#44ee;
+        font-family: verdana;
+        padding:13px 16px;
+        display:flex;
+}
+.login button{
+    font-family: verdana;
+    width: 60%;
+    font-size:16px;
+}
+p{
+    color:red;
+    font-family: verdana;
+}
